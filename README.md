@@ -6,7 +6,6 @@
 
 ---
 
-
 ## Contents
 
 - [Learning Objectives](#learning-objectives)
@@ -41,6 +40,10 @@ Links to help you through the assignments
 
 [study.hackyourfuture.be](https://study.hackyourfuture.be/ux-ui-design)
 
+### Figma
+
+- [Explore Design Features in Figma](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23&mkt_tok=eyJpIjoiWXpJd09HRmhOelkzWW1aaCIsInQiOiJoRVRDT05JVSsrNzRzTmtBcUdtcDhVYVNsXC95Z2Vwbm92bzVWeGlGSXlnNVJ0REdad21kR05oNHhOZldOUmtscTJLSlwvWmE1ZFZOV0J4bjFQeGliT0h6cmRybTFFdzBHMTZaOHhTbVhha0tCWlZXbmdYTUE1Mk1pczJuRisxeFZMIn0%3D)
+
 </details>
 
 [TOP](#ux-ui-design)
@@ -56,6 +59,8 @@ Links to help you through the assignments
 ### Prep work
 
 > before class
+
+- [How designers make the world](https://www.youtube.com/watch?v=BYS4JXW0f5g)
 
 
 ### Lesson Plan
