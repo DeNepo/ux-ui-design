@@ -1,6 +1,11 @@
 # Personal portfolio
 
-**Project**: Design and Code
+**Projects**: Design and Code
+
+**Format**: Figma document and coded website
+
+**Timeframe**: Throughout the HYF curriculum. With the UX-UI module and the other programming modules, you should be able to have a portfolio ready by the end of the curriculum. Request for review to coaches.
+
 
 ## Brief
 
@@ -30,9 +35,9 @@ Build case studies to show how you think and to present the work you have done. 
 - What was the outcome?
 - What impact did your solution have? (Think: success metrics, improvements)
 
-Run a spell checker on your texts. You can use Grammarly [[https://app.grammarly.com/](https://slack-redir.net/link?url=https%3A%2F%2Fapp.grammarly.com%2F)] or Hemingway [[http://www.hemingwayapp.com/](http://www.hemingwayapp.com/)] to catch English language errors. If you are using Figma, run a Figma spellchecker [[https://www.figma.com/community/plugin/754026612866636376/SPELLL---Spell-Checking-for-Figma](https://www.figma.com/community/plugin/754026612866636376/SPELLL---Spell-Checking-for-Figma)].
+Run a spell checker on your texts. You can use [Grammarly](https://app.grammarly.com/) or [Hemingway](http://www.hemingwayapp.com/) to catch English language errors. If you are using Figma, run a [Figma spellchecker](https://www.figma.com/community/plugin/754026612866636376/SPELLL---Spell-Checking-for-Figma).
 
 ## Resources
 
-- Building and effective Dev portfolio by Josh Comeau - https://joshwcomeaucom.s3.amazonaws.com/building-an-effective-dev-portfolio.pdf
-- Tips to create a portfolio - [https://www.semplice.com/portfolio-building-checklist](https://www.semplice.com/portfolio-building-checklist)
+- [Building and effective Dev portfolio](https://joshwcomeaucom.s3.amazonaws.com/building-an-effective-dev-portfolio.pdf) by Josh Comeau
+- [Tips to create a portfolio](https://www.semplice.com/portfolio-building-checklist)
