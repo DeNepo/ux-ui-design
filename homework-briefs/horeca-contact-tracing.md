@@ -1,5 +1,7 @@
 # HORECA contact tracing
 
+> [Figma starter file](https://www.figma.com/file/FRdfx12LjrsqMYfKcRm7Bu/Class-2020?node-id=3%3A3)
+
 **Exercise:** Design, no code.
 
 **Format**: Figma document. Starter document will be shared during the course.
