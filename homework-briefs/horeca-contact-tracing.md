@@ -1,6 +1,6 @@
 # HORECA contact tracing
 
-> [Figma starter file](https://www.figma.com/file/FRdfx12LjrsqMYfKcRm7Bu/Class-2020?node-id=3%3A3)
+> [Figma starter file](https://www.figma.com/file/FRdfx12LjrsqMYfKcRm7Bu/Class-2020?node-id=3%3A3g)
 
 **Exercise:** Design, no code.
 
