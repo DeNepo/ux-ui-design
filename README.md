@@ -60,8 +60,18 @@ Links to help you through the assignments
 
 > before class
 
-- [How designers make the world](https://www.youtube.com/watch?v=BYS4JXW0f5g)
 
+- Create a Figma account: www.figma.com
+You need a verified Education Figma account before joining the course!
+Create a Figma account with your email address
+Add your email address on your Slack class channel, we will collect it and invite you to the HYF Education account.
+Open the email sent from Figma to verify your Figma Education account.
+Login into Figma before the course starts.
+- Watch the following tutorials:
+  - [What's Figma?](https://www.youtube.com/watch?v=Cx2dkpBxst8&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4)
+  - [Setup account, teams, projects, and files](https://www.youtube.com/watch?v=hrHL2VLMl7g&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=2)
+  - [Get a tour of the Editor](https://www.youtube.com/watch?v=DSrbwCrEIII&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=3)
+- [How designers make the world](https://www.youtube.com/watch?v=BYS4JXW0f5g)
 
 ### Lesson Plan
 
@@ -69,24 +79,30 @@ Links to help you through the assignments
 
 - [Class Slideshow](https://docs.google.com/presentation/d/1FakGT5_VGVZ090Bcw3RiYu6CibJTGT5HQ5PbykMeX-w/edit#slide=id.g938bbe0eb7_2_146)
 
-#### Before Break
-
-
-#### After Break
-
 
 ### Homework
 
+> after class
+
+There are 2 individual assignments:
+
+- [Horeca Contact Tracing](./homework-briefs/horeca-contact-tracing.md)
+  - Use this [Figma Starter File](https://www.figma.com/file/FRdfx12LjrsqMYfKcRm7Bu/Class-11-12-2020?node-id=3%3A3)
+  - Include a link to your Figma file in your `individual` issue
+- [Personal Portfolio](./homework-briefs/personal-portfolio.md)
+  - Use the [Agile HTML/CSS starter](https://github.com/HackYourFutureBelgium/agile-html-css-starter)
+  - Copy the checklist below into your `individual` issue
 
 #### Checklist
 
 ```markdown
 - [ ] [repo](https://github.com/_/_) (with a complete README)
 - [ ] [live demo](https://_.github.io/_)
-- [ ] [development strategy](https://github.com/_/_/tree/master/development-strategy.md)
+- [ ] [project planning](https://github.com/_/_/tree/master/project-planning)
+- [ ] [user flow diagram](_)
+- [ ] [project board](https://github.com/_/_/projects/_)
 - [ ] [one branch per step](https://github.com/_/_/branches)
 - [ ] [one closed PR per step](https://github.com/_/_/pulls)
-- [ ] [user flow]()
 ```
 
 </details>
