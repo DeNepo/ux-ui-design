@@ -71,14 +71,13 @@ Login into Figma before the course starts.
   - [What's Figma?](https://www.youtube.com/watch?v=Cx2dkpBxst8&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4)
   - [Setup account, teams, projects, and files](https://www.youtube.com/watch?v=hrHL2VLMl7g&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=2)
   - [Get a tour of the Editor](https://www.youtube.com/watch?v=DSrbwCrEIII&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=3)
-- [How designers make the world](https://www.youtube.com/watch?v=BYS4JXW0f5g)
 
 ### Lesson Plan
 
 > during class
 
 - [Class Slideshow](https://docs.google.com/presentation/d/1FakGT5_VGVZ090Bcw3RiYu6CibJTGT5HQ5PbykMeX-w/edit#slide=id.g938bbe0eb7_2_146)
-
+- [The World Needs Designers](https://www.youtube.com/watch?v=BYS4JXW0f5g)
 
 ### Homework
 
