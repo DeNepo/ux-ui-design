@@ -35,7 +35,7 @@ What you should be able to do after this module.
 
 Links to help you through the assignments
 
-<details>
+<details open>
 <summary>expand/collapse</summary>
 
 [study.hackyourfuture.be](https://study.hackyourfuture.be/ux-ui-design)
@@ -53,7 +53,7 @@ Links to help you through the assignments
 ## Week 1
 
 
-<details>
+<details open>
 <summary>expand/collapse</summary>
 
 ### Prep work
