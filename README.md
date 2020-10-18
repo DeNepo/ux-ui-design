@@ -76,7 +76,7 @@ Login into Figma before the course starts.
 
 > during class
 
-- [Class Slideshow](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/HackYourFuture_UX-UIModule%20%5Bcompleted%5D.pdf
+- [Class Slideshow](./HackYourFuture_UX-UIModule%20%5Bcompleted%5D.pdf)
 - [The World Needs Designers](https://www.youtube.com/watch?v=BYS4JXW0f5g)
 
 ### Homework
