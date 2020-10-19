@@ -118,6 +118,8 @@ There are 2 individual assignments:
   - Which week it was (if the module is more than 1 week)
   - Give your name
   - and a helpful description
+  
+- [Class Recording 18/10/2020](https://vimeo.com/469672798) - by Nadia Ferreira & [Marie Devos](https://github.com/mariedevos)
 
 ---
 
