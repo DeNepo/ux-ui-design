@@ -11,7 +11,7 @@
 5. [Open-Ended Ideation](#5-ideation)
 6. [Partner Feedback](#6-partner-feedback)
 7. [Final Plan](#7-final-plan)
-8. [Final Build](#8-final-build)
+8. [Final Wireframe](#8-final-wireframe)
 9. [Final Feedback](#9-final-feedback)
 
 ---
@@ -106,7 +106,7 @@ Discuss your ideas with your partner.
 
 ---
 
-## 7. Final Plan
+## 7. Plan
 
 With your partner, come up with a Backlog and Wireframe for their Home page
 
@@ -114,13 +114,9 @@ With your partner, come up with a Backlog and Wireframe for their Home page
 
 ---
 
-## 8. Final Build
+## 8. Design
 
-Create a mock-up of the "finished portfolio". This will be a more detailed mock-up than you used for wireframes or your first round of ideation. It will include color, images, and finished text.
-
-Feel free to use your portfolio as a template, or even to build with Mobirise. The focus of this project is your partner, not programming.
-
-If you did a good job, your partner will want you to replace theirs for this new one!
+Propose an Atomic Design for your partner's home page. This could include a color palate, button designs, icons, ...
 
 [TOP](#steps)
 
@@ -130,7 +126,7 @@ If you did a good job, your partner will want you to replace theirs for this new
 
 The Design Process is never finished!
 
-After you've finished the Final Plan & Final Build ask your partner for feedback. In a professional setting this would be the beginning of a whole new development cycle.
+After you've finished the Plan & Design ask your partner for feedback. In a professional setting this would be the beginning of a whole new development cycle.
 
 [TOP](#steps)
 
