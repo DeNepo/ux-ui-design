@@ -128,6 +128,10 @@ The Design Process is never finished!
 
 After you've finished the Plan & Design ask your partner for feedback. In a professional setting this would be the beginning of a whole new development cycle.
 
+### Notes
+
+### Summary
+
 [TOP](#steps)
 
 ---
