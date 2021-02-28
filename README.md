@@ -100,6 +100,15 @@ These links will always be here for you when you need them in the future.
 
 </details>
 <details>
+<summary>User Personas</summary>
+<br>
+
+- [interaction-design.org](https://www.youtube.com/watch?v=XnG4c4gXaQY)
+- [Robert Smith](https://www.youtube.com/watch?v=vZ578SqL1oA)
+- [Abnux](https://www.youtube.com/watch?v=GaEdg9zTdB8)
+
+</details>
+<details>
 <summary>Design Thinking</summary>
 <br>
 
@@ -145,6 +154,7 @@ These links will always be here for you when you need them in the future.
 
 - [designnotes](https://www.designnotes.co/) (huge repository of sites with design resources, inspiration…)
 - [designinspiration](https://www.designspiration.com/)
+- [Learn Design with Me](https://www.youtube.com/watch?v=WZQYt5HZ0-E&list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt)
 
 </details>
 <details>
