@@ -92,7 +92,7 @@ These links will always be here for you when you need them in the future.
 - [Empathy can be Learned](https://medium.com/old-code-new-tricks/software-development-on-the-empathy-spectrum-f77596faeabc)
 - [interaction-design.org](https://www.interaction-design.org/literature/article/design-thinking-getting-started-with-empathy)
 - [Inclusion](http://danielwestheide.com/blog/2017/01/16/the-empathic-programmer.html)
-- [Applying Empathy to Software](http://www.ustream.tv/recorded/86154111). Longish video, but very worth while.
+- [Use Empathy to Build Software Products](https://www.youtube.com/watch?v=mlPg6x8CRfk)
 - [Soft Skills for Hardcore Developers](https://podtail.com/podcast/make-better-software/ed-finkler-soft-skills-for-hardcore-developers/)
 - [EDD - Empathy Driven Development](https://www.infoq.com/news/2015/06/empathy-development)
 - [Integrating Empathy 1](https://thenewstack.io/empathy-secret-sauce-good-software-development/)
