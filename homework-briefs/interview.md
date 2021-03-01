@@ -98,7 +98,7 @@ Sketch up a few wireframes for your partner's home page with no regard for your 
 
 ## 6. Partner Feedback
 
-Discuss your ideas with your partner.
+Discuss your ideas with your partner. lots of `why?`.
 
 ### Notes
 

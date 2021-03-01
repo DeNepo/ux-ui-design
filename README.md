@@ -90,13 +90,15 @@ These links will always be here for you when you need them in the future.
 
 - [What is Empathy?](https://codingwithempathy.com/2016/05/03/empathy-an-essential-skill-in-software-development/)
 - [Empathy can be Learned](https://medium.com/old-code-new-tricks/software-development-on-the-empathy-spectrum-f77596faeabc)
+- [interaction-design.org](https://www.interaction-design.org/literature/article/design-thinking-getting-started-with-empathy)
 - [Inclusion](http://danielwestheide.com/blog/2017/01/16/the-empathic-programmer.html)
 - [Applying Empathy to Software](http://www.ustream.tv/recorded/86154111). Longish video, but very worth while.
-- [Become 10x (interview)](https://blog.fogcreek.com/soft-skills-for-hardcore-developers-interview-with-ed-finkler/)
+- [Soft Skills for Hardcore Developers](https://podtail.com/podcast/make-better-software/ed-finkler-soft-skills-for-hardcore-developers/)
 - [EDD - Empathy Driven Development](https://www.infoq.com/news/2015/06/empathy-development)
 - [Integrating Empathy 1](https://thenewstack.io/empathy-secret-sauce-good-software-development/)
 - [Integrating Empathy 2](https://simpleprogrammer.com/empathy-software-developers/)
 - [Some Practical Tips](https://truefit.io/blog/how-to-instill-empathy-in-the-software-development-process)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/how-empathy-makes-you-a-better-software-engineer/)
 
 </details>
 <details>
