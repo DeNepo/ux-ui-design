@@ -627,4 +627,8 @@ Learn to use Figma for planning your websites.
 
 - [Class Recording 18/10/2020](https://vimeo.com/469672798) - [slides](./slides/week-2.pdf)
 
+## [Class 13 & 14](https://github.com/hackyourfuturebelgium/class-13-14)
+
+1. Week 1: [User Empathy & Design Thinking](https://vimeo.com/519167473)
+
 [TOP](#ux-ui-design)
