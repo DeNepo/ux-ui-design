@@ -102,8 +102,29 @@ These links will always be here for you when you need them in the future.
 
 </details>
 <details>
-<summary>User Personas</summary>
+<summary>UX Research, User Interviews & Personas</summary>
 <br>
+
+### UX Research
+
+- [designkit.org](https://www.designkit.org/methods)
+- [Career Foundry](https://careerfoundry.com/en/blog/ux-design/how-to-conduct-user-experience-research-like-a-professional/)
+- [interaction-design.org](https://www.interaction-design.org/literature/topics/ux-research)
+- [Zero to UX](https://www.youtube.com/channel/UCWJE3xgMkuekX376g3SiwrQ)
+- [Research Report](https://www.youtube.com/watch?v=esg5iUALAJM)
+
+### User Interviews
+
+- [Structured, Semi-Structured, Unstructured](https://www.youtube.com/watch?v=jy-QGuWE7PQ)
+- [How to talk to Users](https://www.youtube.com/watch?v=MT4Ig2uqjTc&t)
+- [designkit.org](https://www.designkit.org/methods/interview)
+- [Stephanie Walter](https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/)
+- [How to run a User Interview (twitch)](https://www.youtube.com/watch?v=qAws7eXItMk&t=249s)
+- [Career Foundry](https://www.youtube.com/watch?v=5tVbFfGDQCk)
+- [Service Design Show](https://www.youtube.com/watch?v=wkLIVhxoZ8s)
+- [interaction-design.org](https://www.interaction-design.org/literature/article/how-to-conduct-user-interviews)
+
+### Personas
 
 - [interaction-design.org](https://www.youtube.com/watch?v=XnG4c4gXaQY)
 - [Robert Smith](https://www.youtube.com/watch?v=vZ578SqL1oA)
@@ -133,6 +154,7 @@ These links will always be here for you when you need them in the future.
 - Process Guides:
   - [Design is a Process](https://dschool-old.stanford.edu/sandbox/groups/k12/wiki/c739e/attachments/ade8c/An_Intro_to_DT_Slides_07_10_09.pdf?sessionID=8cbdfc6129ceb041dbad2247ffc9d0112fd0ebce)
   - [Explanatory](https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf)
+  - [Justin Ferrell workshop](https://www.youtube.com/watch?v=Z4gAugRGpeY&t)
 
 </details>
 <details>
