@@ -600,11 +600,6 @@ Learn to use Figma for planning your websites.
 ### Before Class
 
 - Create a Figma account: www.figma.com
-  You need a verified Education Figma account before joining the course!
-  Create a Figma account with your email address
-  Add your email address on your Slack class channel, we will collect it and invite you to the HYF Education account.
-  Open the email sent from Figma to verify your Figma Education account.
-  Login into Figma before the course starts.
 - Watch the following tutorials:
   - [What's Figma?](https://www.youtube.com/watch?v=Cx2dkpBxst8&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4)
   - [Setup account, teams, projects, and files](https://www.youtube.com/watch?v=hrHL2VLMl7g&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=2)
@@ -619,10 +614,11 @@ Learn to use Figma for planning your websites.
 
 > individual, figma practice
 
-[Horeca Contact Tracing](./homework-briefs/horeca-contact-tracing.md)
+- 🥚 **Home Page Figma**: Using your wireframe from last week as a starting point, create a design document for your home page using Figma. This can be done with your partner from last week if you like, but can also be individual.
+- 🐣 **coming soon**
+- 🐥 **[Horeca Contact Tracing](./homework-briefs/horeca-contact-tracing.md)**: Use this [Figma Starter File](https://www.figma.com/file/FRdfx12LjrsqMYfKcRm7Bu/Class-11-12-2020?node-id=3%3A3)
 
-- Use this [Figma Starter File](https://www.figma.com/file/FRdfx12LjrsqMYfKcRm7Bu/Class-11-12-2020?node-id=3%3A3)
-- Include a link to your Figma file in your `check-in` issue (no need to put it on the project board)
+No checklist or project issues this week! You can link to your exercises from your `check-in` exercises.
 
 </details>
 <br>
