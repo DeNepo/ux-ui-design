@@ -569,6 +569,7 @@ You've come full circle, time to rebuild that home page you started in the Preco
   - [ ] development strategy
   - [ ] retrospective
 - [ ] [project board]()
+- [ ] [Figma file]() (in week 2)
 
 ## My Contributions
 
@@ -614,11 +615,9 @@ Learn to use Figma for planning your websites.
 
 > individual, figma practice
 
-- 🥚 **Home Page Figma**: Using your wireframe from last week as a starting point, create a design document for your home page using Figma. This can be done with your partner from last week if you like, but can also be individual.
-- 🐣 **coming soon**
-- 🐥 **[Horeca Contact Tracing](./homework-briefs/horeca-contact-tracing.md)**: Use this [Figma Starter File](https://www.figma.com/file/FRdfx12LjrsqMYfKcRm7Bu/Class-11-12-2020?node-id=3%3A3)
+**Home Page Figma**: Using your wireframe from last week as a starting point, create a design document for your home page using Figma. This can be done with your partner from last week if you like, but can also be individual.
 
-No checklist or project issues this week! You can link to your exercises from your `check-in` exercises.
+No new issues for this assignment, you can link to it from your week 1 project issue and from your home page repository
 
 </details>
 <br>
@@ -648,5 +647,6 @@ No checklist or project issues this week! You can link to your exercises from yo
 ## [Class 13 & 14](https://github.com/hackyourfuturebelgium/class-13-14)
 
 1. Week 1: [User Empathy & Design Thinking](https://vimeo.com/519167473)
+2. Week 2: [User Interface Design & Figma](https://vimeo.com/520914260)
 
 [TOP](#ux-ui-design)
