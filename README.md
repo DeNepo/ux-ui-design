@@ -617,7 +617,7 @@ Learn to use Figma for planning your websites.
 
 **Home Page Figma**: Using your wireframe from last week as a starting point, create a design document for your home page using Figma. This can be done with your partner from last week if you like, but can also be individual.
 
-No new issues for this assignment, you can link to it from your week 1 project issue and from your home page repository
+No new issues for this assignment, you can link to it from your week 1 project issue and from your home page repository.
 
 </details>
 <br>
