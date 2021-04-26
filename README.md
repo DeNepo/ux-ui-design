@@ -450,24 +450,6 @@ and finally ...
 - [Contribute to this Project!](https://github.com/Syknapse/Contribute-To-This-Project)
 
 </details>
-<details>
-<summary>Open Source Libraries</summary>
-<br>
-
-Open Source Libraries are code other people wrote that you can use in your project.
-
-The libraries you will be exploring in this module are CSS Frameworks. These are libraries of CSS classes that you can use in your websites to design and develop more efficiently. You don't need to write the CSS, just use it!
-
-- How to choose a library for your project:
-  - [freecodecamp](https://www.freecodecamp.org/news/how-to-choose-between-open-source-libraries-using-popularity-c71677785542/)
-  - [open-source.blogspot.com](https://open-source.blogspot.com/)
-
-Now it's your turn. Look through these CSS Framework and pick the best one to use for your home page:
-
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)
-
-</details>
-<br>
 
 </details>
 <br>
@@ -496,10 +478,7 @@ Now it's your turn. Look through these CSS Framework and pick the best one to us
 
 #### Before Break
 
-- _~10 minutes, all together_: Ice breaker! Write a story as a class one sentence a time
-  1. Assign numbers to each person, starting with n°1.
-  2. Share an issue with the story prompt
-  3. One at a time, add your sentences
+- _~10 minutes, all together_: Ice breaker! Write a story as a class one sentence a time starting with - **One day I was walking down the street ...**
 - _~15 minutes, all together_: What is design? Why is it important?
 - _~60 minutes, small groups_: [Draw Toast](https://www.drawtoast.com/)
 - _~20 minutes, all together_: each group shares how to make toast
@@ -530,7 +509,9 @@ Now it's your turn. Look through these CSS Framework and pick the best one to us
 
 > individual project, 2 weeks
 
-You've come full circle, time to rebuild that home page you started in the Precourse. There will be 3 components to the 2-week project in UX/UI Design:
+You've come full circle, time to rebuild that home page you started in the Precourse. Over the next two weeks you will be rebuilding your home page at `username.github.io` to showcase everything you've learned so far.
+
+There will be 3 parts to the 2-week project in UX/UI Design:
 
 - **Designing**: Practice User Interviews and Design Thinking by working in pairs to come up with your Home Page backlogs, wireframes and READMEs.
   1. You will each create a repository and fork each other's repositories. (do not add each other as collaborators!)
@@ -545,6 +526,8 @@ You've come full circle, time to rebuild that home page you started in the Preco
   - Contribute to your classmates' Home Pages. They will not give you access to their repo, so you will need to use a Fork and comment in issues/PRs as an outside collaborator.
   - Make a contribution to your CSS Framework's repository. This doesn't need to be anything fancy, whatever you are comfortable with!
 
+You home page is a never-ending project. You can continuously improve it as you learn more, and we will rebuild it again at HYF after you learn about JavaScript APIs. The goal in these two weeks is only to make a solid start, not make everything perfect.
+
 #### Checklist(s)
 
 ```markdown
@@ -557,19 +540,27 @@ You've come full circle, time to rebuild that home page you started in the Preco
   - [ ] License
   - [ ] Contributor Guidelines
   - [ ] Code of Conduct
-- [ ] [live demo](https://username.github.io)
-- [/planning]()
+  - [ ] [project board]()
+- [live demo](https://username.github.io)
+- /planning
   - with your project partner:
   - [ ] interview (your completed interview template)
   - [ ] backlog (developed with your partner based on the interview)
   - [ ] wireframe (design your site's outline together)
+  - [ ] retrospective
   - on your own:
   - [ ] schedule (like communication plan, but for yourself)
-  - [ ] constraints (include the CSS framework you chose and why)
+  - [ ] constraints
   - [ ] development strategy
-  - [ ] retrospective
-- [ ] [project board]()
-- [ ] [Figma file]() (in week 2)
+  - [ ] Figma file (in week 2)
+- Technical Requirements. do your best to include each of these in your site:
+  - [ ] CSS Selectors
+  - [ ] CSS Flexbox
+  - [ ] CSS Grid
+  - [ ] CSS Animation
+  - [ ] CSS Media Queries
+  - [ ] HTML Semantic elements
+  - [ ] ARIA labels
 
 ## My Contributions
 
@@ -578,9 +569,6 @@ You've come full circle, time to rebuild that home page you started in the Preco
   - [ ] [classmate's name](link_to_your_contribution)
   - [ ] [classmate's name](link_to_your_contribution)
   - ... why stop at 3?
-- CSS Framework Name:
-  - [ ] [describe contribution](link_to_your_contribution)
-  - ... why stop at 1?
 ```
 
 </details>
