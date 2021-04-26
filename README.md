@@ -499,7 +499,7 @@ and finally ...
 - _~20 minutes, all together_: User Interviews! Discuss the why's and how's of discovering your user's needs
 - _~50 minutes, small groups_: Prepare for this module's project
   - Watch this video and discuss the [Design Thinking Process](https://www.youtube.com/watch?v=_r0VX-aU_T8)
-  - Read through the [./homework-briefs/interview.md](./homework-briefs/interview.md) you will use to design each others' Home Pages.
+  - Read through the [./interview-template.md](./interview-template.md) you will use to design each others' Home Pages.
 - _~20 minutes, all together_:
   - each group shares what they discussed
   - answer questions about the projects
