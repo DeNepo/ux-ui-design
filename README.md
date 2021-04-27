@@ -596,7 +596,7 @@ Learn to use Figma for planning your websites.
 
 ### During Class
 
-- [Class Slideshow](./slides/week-2.pdf)
+- [Class Slideshow](./slides/week-2-benjamin.pdf)
 - [The World Needs Designers](https://www.youtube.com/watch?v=BYS4JXW0f5g)
 
 ### After Class
