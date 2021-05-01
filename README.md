@@ -1,6 +1,10 @@
 # UX/UI Design
 
-> “Writing software is a highly iterative, dynamic process requiring user feedback. Again, it's like writing poetry in that you write some of it, and then you respond to it, which triggers more creativity, and you keep going. Then, you show it to someone whose opinion you respect, and you see it differently.”
+> “Writing software is a highly iterative, dynamic process requiring user feedback.
+>
+> Again, it's like writing poetry in that you write some of it, and then you respond to it, which triggers more creativity, and you keep going.
+>
+> Then, you show it to someone whose opinion you respect, and you see it differently.”
 >
 > - [Richard Gabriel](https://dreamsongs.com/PoetryOfProgramming.html)
 
@@ -460,7 +464,7 @@ and finally ...
 
 ## Week 1
 
-- Practice User Interviews and the Design Thinking Process.
+- Practice Stakeholder Interviews and the Design Thinking Process.
 - Take your first steps into the world of Open Source Software.
 
 <details>
@@ -476,9 +480,11 @@ and finally ...
 
 ### During Class
 
+> [the slide show is here](https://docs.google.com/presentation/d/1zkW-TvU96l-hbZQG00nLsk5IpEhM8fj5VYa_Me_m43g/edit?usp=sharing)
+
 #### Before Break
 
-- _~10 minutes, all together_: Ice breaker! Tell a story as a class one sentence a time starting with - **One day I was walking down the street ...**
+- _~10 minutes, all together_: Ice breaker! Tell a story as a class one sentence a time starting with - "**One day I was walking down the street ...**"
 - _~15 minutes, all together_: What is design? Why is it important?
 - _~60 minutes, small groups_: [Draw Toast](https://www.drawtoast.com/)
 - _~20 minutes, all together_: each group shares how to make toast
