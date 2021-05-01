@@ -1,8 +1,8 @@
 # UX/UI Design
 
-> “Don't make me think.”
+> “Writing software is a highly iterative, dynamic process requiring user feedback. Again, it's like writing poetry in that you write some of it, and then you respond to it, which triggers more creativity, and you keep going. Then, you show it to someone whose opinion you respect, and you see it differently.”
 >
-> - [Steve Krug](https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think)
+> - [Richard Gabriel](https://dreamsongs.com/PoetryOfProgramming.html)
 
 ---
 
@@ -478,7 +478,7 @@ and finally ...
 
 #### Before Break
 
-- _~10 minutes, all together_: Ice breaker! Write a story as a class one sentence a time starting with - **One day I was walking down the street ...**
+- _~10 minutes, all together_: Ice breaker! Tell a story as a class one sentence a time starting with - **One day I was walking down the street ...**
 - _~15 minutes, all together_: What is design? Why is it important?
 - _~60 minutes, small groups_: [Draw Toast](https://www.drawtoast.com/)
 - _~20 minutes, all together_: each group shares how to make toast
@@ -496,7 +496,7 @@ and finally ...
 
 #### After Break
 
-- _~20 minutes, all together_: User Interviews! Discuss the why's and how's of discovering your user's needs
+- _~20 minutes, all together_: Interviews! Discuss the why's and how's of discovering your user and stakeholder's needs
 - _~50 minutes, small groups_: Prepare for this module's project
   - Watch this video and discuss the [Design Thinking Process](https://www.youtube.com/watch?v=_r0VX-aU_T8)
   - Read through the [./interview-template.md](./interview-template.md) you will use to design each others' Home Pages.
@@ -528,7 +528,7 @@ There will be 3 parts to the 2-week project in UX/UI Design:
 
 You home page is a never-ending project. You can continuously improve it as you learn more, and we will rebuild it again at HYF after you learn about JavaScript APIs. The goal in these two weeks is only to make a solid start, not make everything perfect.
 
-#### Checklist(s)
+#### Checklist
 
 ```markdown
 ## My Home Page
