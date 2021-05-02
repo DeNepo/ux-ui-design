@@ -502,9 +502,8 @@ and finally ...
 
 #### After Break
 
-- _~20 minutes, all together_: Interviews! Discuss the why's and how's of discovering your user and stakeholder's needs
+- _~20 minutes, all together_: Interviews! Discuss the why's and how's of discovering your stakeholder's needs
 - _~50 minutes, small groups_: Prepare for this module's project
-  - Watch this video and discuss the [Design Thinking Process](https://www.youtube.com/watch?v=_r0VX-aU_T8)
   - Read through the [./interview-template.md](./interview-template.md) you will use to design each others' Home Pages.
 - _~20 minutes, all together_:
   - each group shares what they discussed
