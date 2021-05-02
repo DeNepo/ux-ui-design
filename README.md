@@ -487,7 +487,7 @@ and finally ...
 - _~10 minutes, all together_: Ice breaker! Tell a story as a class one sentence a time starting with - "**One day I was walking down the street ...**"
 - _~15 minutes, all together_: What is design? Why is it important?
 - _~60 minutes, small groups_: [Draw Toast](https://www.drawtoast.com/)
-- _~20 minutes, all together_: each group shares how to make toast
+- _~20 minutes, all together_: each group shares how to make toast (for digital drawing: [Excali Draw](https://excalidraw.com/)
 
 <!--
   Drawing the flow on how to make toast is a good initial exercise - 45 minutes
