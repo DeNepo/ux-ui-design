@@ -643,7 +643,9 @@ No new issues for this assignment, you can link to it from your week 1 project i
 2. Week 2: [User Interface Design & Figma](https://vimeo.com/520914260)
 
 ## [Class 15](https://github.com/hackyourfuturebelgium/class-15)
-1. [Week 1: User Empathy & Design Thinking]()
+1. [Week 1 - Part 1: User Empathy & Design Thinking](https://vimeo.com/544483531)
+   [Week 1 - Part 2: User Empathy & Design Thinking](https://vimeo.com/544484950)
+
 2. [Week 2: User Interface Design & Figma]()
 
 [TOP](#ux-ui-design)
