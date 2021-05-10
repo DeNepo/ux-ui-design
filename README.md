@@ -646,8 +646,9 @@ No new issues for this assignment, you can link to it from your week 1 project i
 1. [Week 1 - Part 1: User Empathy & Design Thinking](https://vimeo.com/544483531)
    [Week 1 - Part 2: User Empathy & Design Thinking](https://vimeo.com/544484950)
 
-2. [Week 2 - Part 1](https://vimeo.com/547386915)
-   [Week 2 -Part 2](https://vimeo.com/547386915)
+2. Week 2
+   - [Week 2 - Part 1](https://vimeo.com/547386915)
+   - [Week 2 -Part 2](https://vimeo.com/547386915)
    
 
 [TOP](#ux-ui-design)
