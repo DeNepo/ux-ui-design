@@ -2,7 +2,7 @@
 
 <!-- introduce your interviewee -->
 
-### Steps:
+## Steps
 
 1. [First Interview](#1-first-interview)
 2. [Follow-Up Interview](#2-follow-up-interview)
@@ -133,4 +133,5 @@
 
 ---
 
-> This template is inspired by [the wallet project](https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/4dbb2/attachments/e1005/TheWalletProjectB%26W2012.pdf?sessionID=8af88fee76ecd1fb7879c915073461486c425622)
+> This template is inspired by
+> [the wallet project](https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/4dbb2/attachments/e1005/TheWalletProjectB%26W2012.pdf?sessionID=8af88fee76ecd1fb7879c915073461486c425622)

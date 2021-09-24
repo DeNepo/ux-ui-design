@@ -21,8 +21,9 @@ Examples, exercises and guides for the
 
 ## Materials
 
-- 🥚 **[./design-process-template.md](./design-process-template.md)**: Template
-  file for co-designing your partner's home page
+- 🥚
+  **[./interview-templates/home-page-design.md](./interview-templates/home-page-design.md)**:
+  Template file for co-designing your partner's home page
 - 🥚 **[./slides](./slides)**: Slides from previous coaches and classes
 
 [TOP](#ux-ui-design)
