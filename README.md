@@ -163,4 +163,14 @@ not important that a user can interact directly with the web page
 
 </details>
 
+## [Class 15](https://github.com/hackyourfuturebelgium/class-15)
+
+1. [Week 1 - Part 1: User Empathy & Design Thinking](https://vimeo.com/544483531)
+   [Week 1 - Part 2: User Empathy & Design Thinking](https://vimeo.com/544484950)
+
+2. Week 2
+
+   - [Week 2 - Part 1](https://vimeo.com/547386915)
+   - [Week 2 - Part 2](https://vimeo.com/547387617)
+
 [TOP](#ux-ui-design)
