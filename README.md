@@ -21,9 +21,8 @@ Examples, exercises and guides for the
 
 ## Materials
 
-- 🥚
-  **[./interview-templates/home-page-design.md](./interview-templates/home-page-design.md)**:
-  Template file for co-designing your partner's home page
+- 🥚 **[./project-starter](./project-starter)**: Materials to help you get
+  started with this module's project.
 - 🥚 **[./slides](./slides)**: Slides from previous coaches and classes
 
 [TOP](#ux-ui-design)
