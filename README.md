@@ -80,9 +80,9 @@ VSCode is really good at searching through folders of code.
 You can write hashtags in your comments while you're studying, then search for
 those hashtags later so you don't miss anything. Here's some ideas:
 
-- `// #not-done, still a few blanks left` - search for `#not-done` in VScode to
-  find all the exercises you've started and not finished
-- `// coercion is confusing, #review this again next week` - search for
+- `// #todo, still a few blanks left` - search for `#todo` in Study Lenses or
+  VScode to find all the exercises you still need to study
+- `// #review, coercion is confusing this again next week` - search for
   `#review` to find the files you need to study again
 - ... anything goes! Find the hashtags that work for you
 
@@ -162,15 +162,3 @@ see the web page. They're generally used for testing and validation when it's
 not important that a user can interact directly with the web page
 
 </details>
-
-## [Class 15](https://github.com/hackyourfuturebelgium/class-15)
-
-1. [Week 1 - Part 1: User Empathy & Design Thinking](https://vimeo.com/544483531)
-   [Week 1 - Part 2: User Empathy & Design Thinking](https://vimeo.com/544484950)
-
-2. Week 2
-
-   - [Week 2 - Part 1](https://vimeo.com/547386915)
-   - [Week 2 - Part 2](https://vimeo.com/547387617)
-
-[TOP](#ux-ui-design)
