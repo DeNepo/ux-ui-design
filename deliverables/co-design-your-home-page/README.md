@@ -17,7 +17,7 @@ account_ in a repository named _username.github.io_.
 There will be 2 phases to the project in UX/UI Design, taken from the **Double
 Diamond** approach to design:
 
-![double diamond](../assets/double-diamond.jpg)
+![double diamond](../../assets/double-diamond.jpg)
 
 ## Phase 1: _Design in groups_
 
