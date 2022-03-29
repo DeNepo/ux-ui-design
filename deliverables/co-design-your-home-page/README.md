@@ -1,4 +1,4 @@
-# Co-Design our Home Page
+# Co-Design Your Home Page
 
 > Design in groups of ~4
 >
