@@ -1,4 +1,4 @@
-## Chapter 1
+## Design Thinking
 
 - Practice Stakeholder Interviews and the Design Thinking Process.
 
@@ -14,6 +14,10 @@
 - [Design Thinking Process](https://www.youtube.com/watch?v=_r0VX-aU_T8)
 
 ### During Class
+
+[the slide show & lesson plan is here](https://www.figma.com/file/SdMu1uJdk36DMScylFWT9e/HackYourFuture?node-id=304%3A533)
+
+<!--
 
 > [the slide show is here](https://docs.google.com/presentation/d/1zkW-TvU96l-hbZQG00nLsk5IpEhM8fj5VYa_Me_m43g/edit?usp=sharing)
 
@@ -33,9 +37,12 @@
   - each group shares what they discussed
   - answer questions about the projects
   - generate pairs for the project using your class randomizer
+-->
 
 ---
 
 ### After Class
 
-Work with your partner to practice stakeholder interviews, you should try to be finished with the _Design_ phase of your **Home Page** deliverable.
+Work with your groups on the [Practical Case deliverable](../deliverables/practical-case.md) presented in class.
+
+<!-- Work with your partner to practice stakeholder interviews, you should try to be finished with the _Design_ phase of your **Home Page** deliverable. -->

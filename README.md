@@ -1,8 +1,7 @@
 # UX/UI Design
 
-> or should this diagram be the design thinking steps?
 
-[![double diamond](./assets/double-diamond.jpg)](https://dta-www-drupal-20180130215411153400000001.s3.ap-southeast-2.amazonaws.com/s3fs-public/images/content/double-diamond.jpg)
+[![design thinking cycle](./assets/design-thinking-cycle.jpeg)](https://www.maqe.com/insight/the-design-thinking-process-how-does-it-work/)
 
 Computers run code, developers maintain it, and humans use it. This module
 focuses on the humans who use it and the developers who maintain it.
