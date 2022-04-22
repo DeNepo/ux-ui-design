@@ -127,6 +127,10 @@ These 4 columns may be helpful:
 
 ## Setting Up
 
+<details>
+<summary>expand/collapse</summary>
+<br>
+  
 > You will need
 > [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 > installed on your computer to study this material
@@ -142,6 +146,8 @@ These 4 columns may be helpful:
 > It's highly recommended that you use either Linux or Mac. If you have a
 > Windows computer you can either dual-boot your computer or install a virtual
 > machine.
+
+</details>
 
 [TOP](#ux-ui-design)
 
