@@ -135,4 +135,5 @@
 
 > This template is inspired by
 > [the wallet project](https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/4dbb2/attachments/e1005/TheWalletProjectB%26W2012.pdf?sessionID=8af88fee76ecd1fb7879c915073461486c425622)
+
 > [pdf](https://hci.stanford.edu/dschool/resources/wallet/Wallet%20Facilitators%20Guide.pdf)
