@@ -1,6 +1,6 @@
 # Co-Design Your Home Page
 
-> Design in groups of ~4
+> Design in groups of 2
 >
 > Deliver individually (after the UX/UI module is finished)
 >
@@ -19,7 +19,7 @@ Diamond** approach to design:
 
 ![double diamond](../../assets/double-diamond.jpg)
 
-## Phase 1: _Design in groups_
+## Phase 1: _Design in pairs_
 
 This is the **Discover** & **Define** phases of the Double Diamond design
 process. You will be working in small groups to design your home pages,
