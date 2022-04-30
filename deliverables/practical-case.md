@@ -3,7 +3,8 @@
 > Use the
 > [HTML & CSS template](https://github.com/HackYourFutureBelgium/template-html-css)
 
-Design and deliver a web page based on the Practical Case introduced in the [Design Thinking lesson plan](../lesson-plans/design-thinking.md)
+Design and deliver a web page based on the Practical Case introduced in the
+[Design Thinking lesson plan](../lesson-plans/design-thinking.md)
 
 ## Checklist
 

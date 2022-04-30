@@ -2,13 +2,13 @@
 
 > Design in groups of ~4
 >
-> Deliver individually
+> Deliver individually (after the UX/UI module is finished)
 >
 > Use the
 > [HTML & CSS template](https://github.com/HackYourFutureBelgium/template-html-css)
 >
 > - **generate the new repository _on your personal account_**
-> - **name the repository _your-user-name.github.io_**
+> - **name the repository _`your-user-name.github.io`_**
 
 In this module you will practice the **Double Diamond** approach to development
 building a personal home page. You will host the project _on your github
@@ -38,6 +38,11 @@ practicing _stakeholder_ and _user_ interviews.
 
 ## Phase 2: _Develop individually_
 
+> You do not need to finish (or even start) this phase during the UX/UI module!
+>
+> After you have co-designed your page, you can develop it on your own time
+> during the JS modules to continue practicing with HTML/CSS.
+
 This is the **Develop** & **Deliver** phases of the Double Diamond design
 process. You will be working individually to build the home page your group
 helped you design. You are developing your own home page to showcase what you
@@ -65,7 +70,7 @@ label it with `individual` and `group`.
 ```markdown
 # Home Page
 
-- [repo]()
+- [repo](https://github.com/_/_.github.io)
 - [live demo](https://_.github.io)
 
 ---
@@ -79,7 +84,7 @@ label it with `individual` and `group`.
   - [ ] user personas
   - [ ] user interviews (_other group members feedback on the design_)
   - [ ] backlog
-  - [ ] wireframe
+  - [ ] Figma document
   - [ ] design retrospective
 
 ---
@@ -87,6 +92,15 @@ label it with `individual` and `group`.
 ## Deliver
 
 > individually
+
+<!--
+
+  You do not need to start this phase during the UX/UI module!
+
+  After you have designed your home page with your classmates
+  you can build the page individually during the JS modules to practice HTML & CSS.
+
+-->
 
 - repository
   - [ ] README

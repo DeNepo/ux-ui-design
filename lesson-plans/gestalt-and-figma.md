@@ -6,7 +6,8 @@ Learn to use Figma for planning your websites.
 
 ### Before Class
 
-> Do you have any questions from last week? Add the `question` label to an issue in your class repo so your coaches know what to review!
+> Do you have any questions from last week? Add the `question` label to an issue
+> in your class repo so your coaches know what to review!
 
 - Create a Figma account: www.figma.com
 - Watch the following tutorials:
@@ -24,4 +25,6 @@ Learn to use Figma for planning your websites.
 ### After Class
 
 - Contribute to at least 2 of your classmate's home pages
-- Begin developing your own home page. No rush to finish it right away, you can continue developing your home page during the first JS modules to keep your HTML & CSS skills fresh.
+- Begin developing your own home page. No rush to finish it right away, you can
+  continue developing your home page during the first JS modules to keep your
+  HTML & CSS skills fresh.

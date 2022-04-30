@@ -53,7 +53,8 @@ These links will always be here for you when you need them in the future.
 
 ### Design Thinking
 
-- Design Thinking Process: [Sprouts](https://www.youtube.com/watch?v=_r0VX-aU_T8),[Stanford](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf)
+- Design Thinking Process:
+  [Sprouts](https://www.youtube.com/watch?v=_r0VX-aU_T8),[Stanford](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf)
   1. Empathize
   2. Define
   3. Ideate
@@ -84,7 +85,8 @@ These links will always be here for you when you need them in the future.
 - [Big Data & DT](http://www.ibmbigdatahub.com/blog/dynamic-duo-big-data-and-design-thinking)
 - [Longer, Detailed Talk](https://www.youtube.com/watch?v=FtUS1W3HymA)
 - [Beware the User!](https://medium.com/@blakeross/mr-fart-s-favorite-colors-3177a406c775)
-- next level: [Art Thinking](https://www.fastcompany.com/3019082/coding-is-an-art-software-people-should-learn-art-thinking)
+- next level:
+  [Art Thinking](https://www.fastcompany.com/3019082/coding-is-an-art-software-people-should-learn-art-thinking)
 
 ### Double Diamond
 
@@ -94,16 +96,19 @@ These links will always be here for you when you need them in the future.
 
 ### General
 
-- [designnotes](https://www.designnotes.co) (huge repository of sites with design resources, inspiration…)
+- [designnotes](https://www.designnotes.co) (huge repository of sites with
+  design resources, inspiration…)
 - [designinspiration](https://www.designspiration.com)
 - [Learn Design with Me](https://www.youtube.com/watch?v=WZQYt5HZ0-E&list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt)
 - [design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 ### User experience (UX)
 
-- [uxchecklist.github.io](https://uxchecklist.github.io) - Complete list of methods and techniques used in UX design
+- [uxchecklist.github.io](https://uxchecklist.github.io) - Complete list of
+  methods and techniques used in UX design
 - [Jacob Nielsen’s Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
-- [Short videos on YouTube](https://www.youtube.com/c/NNgroup/videos) about UX, UI, explaining all concepts of the design field.
+- [Short videos on YouTube](https://www.youtube.com/c/NNgroup/videos) about UX,
+  UI, explaining all concepts of the design field.
 - [The (condensed) basics of UX and UI design](https://medium.com/hh-design/crash-course-ui-design-25d13ff60962)
 - [Usability.gov](https://www.usability.gov/index.html)
 - [UXBooth](https://www.uxbooth.com)
@@ -121,8 +126,13 @@ These links will always be here for you when you need them in the future.
 - https://www.canva.com/learn/gestalt-theory/
 - [www.87seconds.com - lesson-from-our-designers-gestalt-principles](https://www.87seconds.com/lesson-from-our-designers-gestalt-principles/?gclid=EAIaIQobChMIqbLZoYWz3QIVBrXtCh0kPQiaEAAYASAAEgIRF_D_BwE)
 - [interaction-design.org](https://www.interaction-design.org/literature/topics/gestalt-principles)
-- [nngroup.com](https://www.nngroup.com/articles/principles-visual-design/) UI Principles
-- Conceptual Integrity: [safnet](http://www.safnet.com/writing/tech/2011/11/mythical-man-month-conceptual-integrity.html), [CSEWeb](http://cseweb.ucsd.edu/~wgg/CSE131B/Design/node6.html), [DZone](https://dzone.com/articles/lean-tools-conceptual-0), [deep read](http://www.dcs.warwick.ac.uk/oldmodelling/hi/theses/allan/chapter5.pdf)
+- [nngroup.com](https://www.nngroup.com/articles/principles-visual-design/) UI
+  Principles
+- Conceptual Integrity:
+  [safnet](http://www.safnet.com/writing/tech/2011/11/mythical-man-month-conceptual-integrity.html),
+  [CSEWeb](http://cseweb.ucsd.edu/~wgg/CSE131B/Design/node6.html),
+  [DZone](https://dzone.com/articles/lean-tools-conceptual-0),
+  [deep read](http://www.dcs.warwick.ac.uk/oldmodelling/hi/theses/allan/chapter5.pdf)
 
 ### Colour
 
@@ -148,14 +158,17 @@ These links will always be here for you when you need them in the future.
 - https://www.supremo.co.uk/typeterms/
 - https://velvetyne.fr/
 - https://www.fonts.ninja/ - Try and discover fonts
-- https://betterwebtype.com/web-typography-resources/ - Everything you need to know about web typography
+- https://betterwebtype.com/web-typography-resources/ - Everything you need to
+  know about web typography
 - https://typographyhandbook.com/
 - https://www.fontshop.com/glossary - All the terms of typography
-- https://typespiration.com/ - Collection and inspiration of typography combinations
+- https://typespiration.com/ - Collection and inspiration of typography
+  combinations
 
 ### Style Guides
 
-- [Style Guide Guide](https://bradfrost.github.io/style-guide-guide/) by Brad Frost
+- [Style Guide Guide](https://bradfrost.github.io/style-guide-guide/) by Brad
+  Frost
 
 ### Imagery and Photography
 
@@ -183,13 +196,16 @@ These links will always be here for you when you need them in the future.
 ### Free Courses
 
 - [Hack Design](https://hackdesign.org) Free design lessons by designers.
-- [Design Lab](http://trydesignlab.com) Design course with mentorship and projects.
+- [Design Lab](http://trydesignlab.com) Design course with mentorship and
+  projects.
 
 ### Figma
 
-Web based tool for interface design, collaborative, add plugins from community (free, up to 2 editors and 3 projects)
+Web based tool for interface design, collaborative, add plugins from community
+(free, up to 2 editors and 3 projects)
 
-Video explanation of Figma features on their official [YouTube channel](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23&mkt_tok=eyJpIjoiWXpJd09HRmhOelkzWW1aaCIsInQiOiJoRVRDT05JVSsrNzRzTmtBcUdtcDhVYVNsXC95Z2Vwbm92bzVWeGlGSXlnNVJ0REdad21kR05oNHhOZldOUmtscTJLSlwvWmE1ZFZOV0J4bjFQeGliT0h6cmRybTFFdzBHMTZaOHhTbVhha0tCWlZXbmdYTUE1Mk1pczJuRisxeFZMIn0%3D).
+Video explanation of Figma features on their official
+[YouTube channel](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23&mkt_tok=eyJpIjoiWXpJd09HRmhOelkzWW1aaCIsInQiOiJoRVRDT05JVSsrNzRzTmtBcUdtcDhVYVNsXC95Z2Vwbm92bzVWeGlGSXlnNVJ0REdad21kR05oNHhOZldOUmtscTJLSlwvWmE1ZFZOV0J4bjFQeGliT0h6cmRybTFFdzBHMTZaOHhTbVhha0tCWlZXbmdYTUE1Mk1pczJuRisxeFZMIn0%3D).
 
 - [Build reusable components](https://www.youtube.com/watch?v=k8y9SRPB78Q&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=4)
 - [Create reusable color styles](https://www.youtube.com/watch?v=d01Ql9ZtVnk&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=5)
@@ -210,21 +226,34 @@ Video explanation of Figma features on their official [YouTube channel](https://
 
 ### More Softwares
 
-- **Adobe XD**: Interface design and prototyping tool, shared docs, 2GB cloud storage ([free, up to 2 editors and 1 shared document](https://www.adobe.com/be_en/products/xd.html))
-- **Sketch**: Interface design / UX and prototyping tool, collaborative ([paid, 30 days trial](https://www.sketch.com))
-- **MindMeister**: Flowcharts and mind maps ([free, up to 3 maps](https://www.mindmeister.com))
+- **Adobe XD**: Interface design and prototyping tool, shared docs, 2GB cloud
+  storage
+  ([free, up to 2 editors and 1 shared document](https://www.adobe.com/be_en/products/xd.html))
+- **Sketch**: Interface design / UX and prototyping tool, collaborative
+  ([paid, 30 days trial](https://www.sketch.com))
+- **MindMeister**: Flowcharts and mind maps
+  ([free, up to 3 maps](https://www.mindmeister.com))
 - **Draw.io**: Flowcharts ([paid, 30 days trial](https://drawio-app.com))
 
 ### Books
 
-- [Don't Make Me Think](https://www.bol.com/nl/p/don-t-make-me-think-revisited/9200000018192369/?bltgh=mLaCpZW-IMbD3dNO48xFIA.1_4.5.ProductImage), by Steve Krug \[Suggested study]
-- [The User Experience Team of One](https://www.bol.com/nl/p/the-user-experience-team-of-one/9200000082272796/?bltgh=tY-6frkLAyHyaaL6EtNEPQ.1_4.5.ProductImage): A Research and Design Survival Guide, by Leah Buley
-- Information Architecture for the World Wide Web, by Louis Rosenfeld and Peter Morville
-- [Universal Principles of Design](https://www.bol.com/nl/p/universal-principles-of-design/1001004007106781/?bltgh=mm-7k83-XaFdUXIrXSJObA.1_4.6.ProductImage), by William Lidwell, Kritina Holden, and Jill Butler
-- [Information Architecture for the World Wide Web](https://www.bol.com/nl/p/information-architecture-4e/9200000037168400/?bltg=itm_event%3Dclick%26mmt_id%3DX3GnoJ7%40oK68MSh3gAkpbQAAB7Y%26slt_type%3Drecommendations%26pg_nm%3Dpdp%26slt_id%3Dprd_reco%26slt_nm%3Dproduct_recommendations%26slt_pos%3DC1%26slt_owner%3Dccs%26itm_type%3Dproduct%26itm_lp%3D1%26itm_id%3D9200000037168400&bltgh=vKsCEcB7ild3J74TfKNNfQ.1_8_9.10.ProductImage), by Louis Rosenfeld and Peter Morville
-- [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/), by Brad Frost
-- [Design Systems](https://www.bol.com/nl/p/design-systems/9200000088832671/) by Alla Kholmatova
-- HTML\&CSS design and build websites - Jon Duckett ([Free PDF](https://wtf.tw/ref/duckett.pdf)) ([Official website](http://www.htmlandcssbook.com))
+- [Don't Make Me Think](https://www.bol.com/nl/p/don-t-make-me-think-revisited/9200000018192369/?bltgh=mLaCpZW-IMbD3dNO48xFIA.1_4.5.ProductImage),
+  by Steve Krug \[Suggested study]
+- [The User Experience Team of One](https://www.bol.com/nl/p/the-user-experience-team-of-one/9200000082272796/?bltgh=tY-6frkLAyHyaaL6EtNEPQ.1_4.5.ProductImage):
+  A Research and Design Survival Guide, by Leah Buley
+- Information Architecture for the World Wide Web, by Louis Rosenfeld and Peter
+  Morville
+- [Universal Principles of Design](https://www.bol.com/nl/p/universal-principles-of-design/1001004007106781/?bltgh=mm-7k83-XaFdUXIrXSJObA.1_4.6.ProductImage),
+  by William Lidwell, Kritina Holden, and Jill Butler
+- [Information Architecture for the World Wide Web](https://www.bol.com/nl/p/information-architecture-4e/9200000037168400/?bltg=itm_event%3Dclick%26mmt_id%3DX3GnoJ7%40oK68MSh3gAkpbQAAB7Y%26slt_type%3Drecommendations%26pg_nm%3Dpdp%26slt_id%3Dprd_reco%26slt_nm%3Dproduct_recommendations%26slt_pos%3DC1%26slt_owner%3Dccs%26itm_type%3Dproduct%26itm_lp%3D1%26itm_id%3D9200000037168400&bltgh=vKsCEcB7ild3J74TfKNNfQ.1_8_9.10.ProductImage),
+  by Louis Rosenfeld and Peter Morville
+- [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/), by Brad
+  Frost
+- [Design Systems](https://www.bol.com/nl/p/design-systems/9200000088832671/) by
+  Alla Kholmatova
+- HTML\&CSS design and build websites - Jon Duckett
+  ([Free PDF](https://wtf.tw/ref/duckett.pdf))
+  ([Official website](http://www.htmlandcssbook.com))
 - [Free Online book on Design Engineering](https://www.designbetter.co/design-engineering-handbook)
 
 ---
@@ -232,8 +261,10 @@ Video explanation of Figma features on their official [YouTube channel](https://
 ## Web Accessibility
 
 - [What is Accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
-- Human accessibility: [Empathy Prompts](https://empathyprompts.net/#blindness), [Using a screen reader](https://www.youtube.com/watch?v=dEbl5jvLKGQ)
-- Technological accessibility: [Throttling & Emulation](https://blog.j-labs.pl/index.php?page=2019/08/Testing-and-simulating-mobile-devices-in-Chrome-DevTools)
+- Human accessibility: [Empathy Prompts](https://empathyprompts.net/#blindness),
+  [Using a screen reader](https://www.youtube.com/watch?v=dEbl5jvLKGQ)
+- Technological accessibility:
+  [Throttling & Emulation](https://blog.j-labs.pl/index.php?page=2019/08/Testing-and-simulating-mobile-devices-in-Chrome-DevTools)
 - [FAC: Web Accessibility](https://github.com/foundersandcoders/web-accessibility)
 
 ### ARIA
@@ -243,7 +274,8 @@ Video explanation of Figma features on their official [YouTube channel](https://
 - [ARIA tutorial series](https://www.youtube.com/watch?v=o4xHfi4t9S0&list=PLWjCJDeWfDdcEtSnqq_iGLKGA_H_3o3y7)
 - [ARIA Playlist](https://www.youtube.com/watch?v=g9Qff0b-lHk&list=PL_gUZt7pGoe2OI___PQDlQUJ8CbUxHWmO)
 - [Web applications and ARIA FAQ](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Web_applications_and_ARIA_FAQ)
-- _Bonus knowlegde:_ [Practical guide for developers on how to add accessibility information to HTML elements using the ARIA specification](https://w3c.github.io/using-aria/)
+- _Bonus knowlegde:_
+  [Practical guide for developers on how to add accessibility information to HTML elements using the ARIA specification](https://w3c.github.io/using-aria/)
 - [grids example](https://gist.github.com/visiongeist/bdaa0da523b462b89af7)
 - [Official Best Practices](https://w3c.github.io/aria-practices/)
 
@@ -255,14 +287,20 @@ Video explanation of Figma features on their official [YouTube channel](https://
 - [Helpful rules](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility)
 - [Throttling & Emulation](https://blog.j-labs.pl/index.php?page=2019/08/Testing-and-simulating-mobile-devices-in-Chrome-DevTools)
 - [Wave](https://wave.webaim.org/extension/)
-- Tota11y: [Chrome/Chromium](https://chrome.google.com/webstore/detail/tota11y-toolkit-chrome-ex/plgldjckfjonhhaflbghkdmbcmffccpn) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tota11y-accessibility-toolkit/?src=search)
-- a11y: [Chrome/Chromium](https://developer.chrome.com/extensions/a11yn) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/a11y-outline/)
+- Tota11y:
+  [Chrome/Chromium](https://chrome.google.com/webstore/detail/tota11y-toolkit-chrome-ex/plgldjckfjonhhaflbghkdmbcmffccpn)
+  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tota11y-accessibility-toolkit/?src=search)
+- a11y: [Chrome/Chromium](https://developer.chrome.com/extensions/a11yn)
+  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/a11y-outline/)
 - [VSCode: Web Accessibility](https://github.com/mvdschee/web-accessibility)
 
 ### Accessibility Simulators
 
-- [Disable CSS](https://sumtips.com/software/browsers/turn-off-css-on-a-specific-website-in-browser-for-testing/) and try navigating with only your keyboard
-- NoCoffee: [Chrome/Chromium](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl?hl=en-US) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nocoffee/)
+- [Disable CSS](https://sumtips.com/software/browsers/turn-off-css-on-a-specific-website-in-browser-for-testing/)
+  and try navigating with only your keyboard
+- NoCoffee:
+  [Chrome/Chromium](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl?hl=en-US)
+  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nocoffee/)
 - [ChromeVox](https://chrome.google.com/webstore/detail/chromevox-classic-extensi/kgejglhpjiefppelpmljglcjbhoiplfn)
 
 ### More Links
@@ -277,7 +315,8 @@ Video explanation of Figma features on their official [YouTube channel](https://
 - https://www.nngroup.com/articles/keyboard-accessibility/
 - https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 - https://wave.webaim.org/ - Browser plugin
-- https://chrome.google.com/webstore/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce?hl=en - Chrome extension
+- https://chrome.google.com/webstore/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce?hl=en -
+  Chrome extension
 - https://developers.google.com/web/tools/lighthouse - Chrome dev tool
 - https://www.deque.com/axe/ - Chrome extension
 
@@ -285,7 +324,8 @@ Video explanation of Figma features on their official [YouTube channel](https://
 
 ## Class Recordings
 
-> - HYF modules are often updated, recordings from past classes may not match this gitbook
+> - HYF modules are often updated, recordings from past classes may not match
+>   this gitbook
 > - When sending a PR's with recording links please ...
 >   - Indicate which class you were teaching
 >   - Which week it was (if the module is more than 1 week)
@@ -293,9 +333,11 @@ Video explanation of Figma features on their official [YouTube channel](https://
 
 ## [Class 11 & 12](https://github.com/hackyourfuturebelgium/class-11-12)
 
-> by [Nadia Ferreira](https://nadiaferreira.com) & [Marie Devos](https://github.com/mariedevos)
+> by [Nadia Ferreira](https://nadiaferreira.com) &
+> [Marie Devos](https://github.com/mariedevos)
 
-- [Class Recording 18/10/2020](https://vimeo.com/469672798) - [slides](slides/week-2.pdf)
+- [Class Recording 18/10/2020](https://vimeo.com/469672798) -
+  [slides](slides/week-2.pdf)
 
 ## [Class 13 & 14](https://github.com/hackyourfuturebelgium/class-13-14)
 

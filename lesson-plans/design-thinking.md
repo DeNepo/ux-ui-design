@@ -6,10 +6,15 @@
 
 ### Before Class
 
-> Do you have any questions from last week? Add the `question` label to an issue in your class repo so your coaches know what to review!
+> Do you have any questions from last week? Add the `question` label to an issue
+> in your class repo so your coaches know what to review!
 
-- [Design is future](https://www.youtube.com/watch?v=zodT9bCdIiI) - a film that includes main insights about the key role of design while explaining how it helps professionals, businesses and society to be more innovative and sustainable
-- [User Experience](https://youtu.be/whtBPzY4K-k) from one of the world leaders of UX Jared Spool. Covers many topics in this hour video interview
+- [Design is future](https://www.youtube.com/watch?v=zodT9bCdIiI) - a film that
+  includes main insights about the key role of design while explaining how it
+  helps professionals, businesses and society to be more innovative and
+  sustainable
+- [User Experience](https://youtu.be/whtBPzY4K-k) from one of the world leaders
+  of UX Jared Spool. Covers many topics in this hour video interview
 - [empathyprompts.net](https://empathyprompts.net/)
 - [Design Thinking Process](https://www.youtube.com/watch?v=_r0VX-aU_T8)
 
@@ -43,6 +48,8 @@
 
 ### After Class
 
-Work with your groups on the [Practical Case deliverable](../deliverables/practical-case.md) presented in class.
+Work with your groups on the
+[Practical Case deliverable](../deliverables/practical-case.md) presented in
+class.
 
 <!-- Work with your partner to practice stakeholder interviews, you should try to be finished with the _Design_ phase of your **Home Page** deliverable. -->
