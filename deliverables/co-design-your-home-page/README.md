@@ -1,12 +1,9 @@
 # Co-Design Your Home Page
 
-> Design in groups of ~4
+> Design in groups of 2
 >
 > Deliver individually
->
-> Use the
-> [HTML & CSS template](https://github.com/HackYourFutureBelgium/template-html-css)
->
+> 
 > - **generate the new repository _on your personal account_**
 > - **name the repository _your-user-name.github.io_**
 
@@ -19,7 +16,7 @@ Diamond** approach to design:
 
 ![double diamond](../../assets/double-diamond.jpg)
 
-## Phase 1: _Design in groups_
+## Phase 1: _Design in pairs_
 
 This is the **Discover** & **Define** phases of the Double Diamond design
 process. You will be working in small groups to design your home pages,
