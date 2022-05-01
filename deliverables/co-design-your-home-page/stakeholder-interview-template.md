@@ -19,14 +19,17 @@
 ## 1. First Interview
 
 <!--
-  Take a few minutes getting to know your partner and their ambitions. Ask questions about:
+  Take some time getting to know your partner and their ambitions. Ask questions about:
 
   - Their background (Professional, programming, personal)
   - Their ambitions (Professional, programming, personal)
   - Outside interests (For tying into a personal statement)
   - And much more ... listen to your partner and ask questions about what they tell you.
 
-  The best way to do your interview is with a lot of `why?`. Start your interview with one or two open-ended questions and follow up with a lot of `why?`, this gives your partner the chance to really explain themselves instead of just answering your questions. You might find that they even learn something about themselves!
+  The best way to do your interview is with a lot of `why?`.
+  Try to always use their answer in your next question, this makes sure you understand what they said.
+
+  Start your interview with one or two open-ended questions and follow up with a lot of `why?`, this gives your partner the chance to really explain themselves instead of just answering your questions. You might find that they even learn something about themselves!
 -->
 
 ### Notes
