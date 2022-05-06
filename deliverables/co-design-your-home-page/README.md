@@ -2,41 +2,34 @@
 
 > Design in groups of 2
 >
-> Deliver individually (after the UX/UI module is finished)
->
-> Use the
-> [HTML & CSS template](https://github.com/HackYourFutureBelgium/template-html-css)
->
-> - **generate the new repository _on your personal account_**
-> - **name the repository _`your-user-name.github.io`_**
-
-In this module you will practice the **Double Diamond** approach to development
-building a personal home page. You will host the project _on your github
-account_ in a repository named _username.github.io_.
 
 There will be 2 phases to the project in UX/UI Design, taken from the **Double
 Diamond** approach to design:
 
 ![double diamond](../../assets/double-diamond.jpg)
 
-## Phase 1: _Design in pairs_
+## Phase 1 / first week: _Design in pairs_
 
-This is the **Discover** & **Define** phases of the Double Diamond design
-process. You will be working in small groups to design your home pages,
-practicing _stakeholder_ and _user_ interviews.
+This is the **Discover** & **Define** phase of the Double Diamond design
+process. You will take on the role of a UX/UI Designer and you will be
+practicing _stakeholder_ and _user interviews_.
 
-1. Divide your group into pairs and conduct _stakeholder interviews_ to help
-   determine what you need from your home page.
+Your goal is to design a home page for a client (one of your team members)
+that is intuitive, user-friendly, and engaging.
+
+1. Divide your group into pairs and conduct a _stakeholder interview_ with your client
+   to help determine what they need from their home page/mobile app.
 2. Based on the results of that interview, you will work together to define user
-   personas, a backlog, and an initial design.
+   personas, a backlog, and an initial design in Figma.
 3. Using that design your partner will conduct a _user interview_ with each of
    your remaining group mates.
 4. Based on the results of the user interviews, your partner will suggest
-   changes to your home page's design.
-5. Together you will settle on a design you would like to develop.
+   changes to the home page's design.
+5. Together you will settle on a design.
 6. Retrospect
+7. Repeat steps 1-6 reversing the roles of the two partners.
 
-## Phase 2: _Develop individually_
+## Phase 2 / subsequent weeks: _Develop individually_
 
 > You do not need to finish (or even start) this phase during the UX/UI module!
 >
@@ -45,8 +38,8 @@ practicing _stakeholder_ and _user_ interviews.
 
 This is the **Develop** & **Deliver** phases of the Double Diamond design
 process. You will be working individually to build the home page your group
-helped you design. You are developing your own home page to showcase what you
-have learned about HTML & CSS and to have ownership over your online image:
+helped design. You are developing your own home page to showcase what you
+have learned about HTML & CSS:
 
 1. Practice building a few sections of the page to get a feeling for how the
    design will work.
@@ -75,7 +68,7 @@ label it with `individual` and `group`.
 
 ---
 
-## Design
+## Design (phase 1)
 
 > with your group
 
@@ -89,7 +82,7 @@ label it with `individual` and `group`.
 
 ---
 
-## Deliver
+## Deliver (phase 2)
 
 > individually
 
