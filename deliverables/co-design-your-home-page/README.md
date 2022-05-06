@@ -60,6 +60,8 @@ Each person in your group will create _their own_ deliverable issue for the
 project board, so there should be one issue per person in your class. You can
 label it with `individual` and `group`.
 
+To learn more about forking, check out [this video](https://www.youtube.com/watch?v=HbSjyU2vf6Y).
+
 ```markdown
 # Home Page
 
@@ -70,7 +72,8 @@ label it with `individual` and `group`.
 
 ## Design (phase 1)
 
-> with your group
+> you are in the role of a UX/UI Designer
+> fork the repo of the client and add a planning folder with the following:
 
 - `/planning`
   - [ ] stakeholder interviews (_the person who's page you are designing_)
@@ -84,14 +87,14 @@ label it with `individual` and `group`.
 
 ## Deliver (phase 2)
 
-> individually
+> you are in the role of a developer
 
 <!--
 
-  You do not need to start this phase during the UX/UI module!
+  You do not need to start developing during the UX/UI module!
 
-  After you have designed your home page with your classmates
-  you can build the page individually during the JS modules to practice HTML & CSS.
+  After the design for your page is finished by your teammate, you can develop it on your own,
+  building the page individually during the JS modules to practice HTML & CSS.
 
 -->
 
