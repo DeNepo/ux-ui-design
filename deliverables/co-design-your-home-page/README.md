@@ -60,7 +60,7 @@ Each person in your group will create _their own_ deliverable issue for the
 project board, so there should be one issue per person in your class. You can
 label it with `individual` and `group`.
 
-To learn more about forking, check out [this video](https://www.youtube.com/watch?v=HbSjyU2vf6Y).
+To learn more about forking, check out [this video](https://www.youtube.com/watch?v=HbSjyU2vf6Y) or [this one](https://www.youtube.com/watch?v=mENDYhfxH-o).
 
 ```markdown
 # Home Page
